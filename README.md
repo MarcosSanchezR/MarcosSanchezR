@@ -1,16 +1,44 @@
-## Hi there 👋
+# Marcos
 
-<!--
-**MarcosSanchezR/MarcosSanchezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Universidad Politécnica de Madrid (UPM).
 
-Here are some ideas to get you started:
+I am currently focused on software development, problem solving, and building practical projects while expanding my knowledge in computer science and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+-  Software Engineering student at Universidad Politécnica de Madrid
+-  Experience developing academic projects in Java
+-  Interested in software architecture, backend development, and technology
+-  Continuously learning and improving development skills
+
+## Technologies
+
+- Java
+- Git & GitHub
+- Object-Oriented Programming
+- SQL
+
+## University Projects
+
+### Project 1
+Brief description of the project.
+
+Repository: [Add link here](#)
+
+---
+
+### Project 2
+Brief description of the project.
+
+Repository: [Add link here](#)
+
+---
+
+### Project 3
+Brief description of the project.
+
+Repository: [Add link here](#)
+
+## Contact
+
+- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
