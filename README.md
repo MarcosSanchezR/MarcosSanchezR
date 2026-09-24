@@ -21,9 +21,9 @@ I am currently focused on software development, problem solving, and building pr
 ## University Projects
 
 ### Project 1
-Brief description of the project.
+Implementation of a set management system supporting creation, reading, and deletion of users to organize tennis matches between players using Java.
 
-Repository: [Add link here](#)
+Repository: [(https://github.com/MarcosSanchezR/OOP-Proyect-SecondYear)](#)
 
 ---
 
@@ -34,10 +34,6 @@ Repository: [Add link here](#)
 
 ---
 
-### Project 3
-Brief description of the project.
-
-Repository: [Add link here](#)
 
 ## Contact
 
